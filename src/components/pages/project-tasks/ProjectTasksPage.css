@@ -1,0 +1,16 @@
+
+.project-tasks-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.project-tasks-flex {
+    display: flex;
+    align-items: center;
+}
+
+.project-tasks-color {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}

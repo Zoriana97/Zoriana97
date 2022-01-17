@@ -1,0 +1,19 @@
+
+
+.project-color {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+
+.project-remove-icon {
+    width: 17px;
+    height: 17px;
+}
+
+.project-remove-wrapper {
+    text-align: center;
+}

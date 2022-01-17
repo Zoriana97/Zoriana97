@@ -1,0 +1,39 @@
+
+.table {
+    width: 100%;
+}
+
+.table-header {
+    display: flex;
+    background-color: #fff;
+}
+
+.table-header-cell {
+    flex: 1;
+    padding: 10px 12px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.table-row {
+    display: flex;
+    border-bottom: 1px solid #b5c5cd;
+}
+
+.table-body.clickable .table-row:hover {
+    background-color: #e3e3e7;
+    cursor: pointer;
+}
+
+.table-cell {
+    flex: 1;
+    padding: 10px 12px;
+    font-size: 14px;
+}
+
+.table-placeholder {
+    font-size: 24px;
+    color: #767980;
+    padding: 90px 20px;
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+
+.task-status {
+    width: 100px;
+}
+
+.task-status.New {
+    color: #545d61;
+}
+
+.task-status.In-Progress {
+    color: #0ca9f4;
+}
+
+.task-status.Done {
+    color: #17995c;
+}
+
+
+.task-remove-icon {
+    width: 17px;
+    height: 17px;
+    cursor: pointer;
+}
+
+.task-remove-wrapper {
+    text-align: center;
+}

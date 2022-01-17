@@ -1,0 +1,27 @@
+
+.input-text-wrapper {
+    font-size: 0;
+    width: 100%;
+}
+.input-text-wrapper label {
+    display: block;
+}
+
+.input-text-label {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 4px;
+    font-weight: normal;
+    color: #000;
+}
+
+.input-text {
+    display: inline-block;
+    font-size: 14px;
+    outline: none;
+    border: 1px solid #8f8f8f;
+    padding: 8px;
+    width: 100%;
+    font-family: 'Roboto';
+    resize: none;
+}
